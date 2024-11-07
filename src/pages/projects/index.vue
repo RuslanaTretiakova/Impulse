@@ -17,7 +17,6 @@ const projects = ref<Tables<'projects'> | null>(null)
 
 <template>
   <h2>Projects</h2>
-
   <RouterLink to="/">Go to home </RouterLink>
   <ul>
     <li v-for="project in projects" :key="project.id">
