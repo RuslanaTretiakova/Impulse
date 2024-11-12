@@ -4,6 +4,6 @@ usePageStore().pageData.title = 'Home page'
 
 <template>
   <div>
-    <h1>Home Page</h1>
+    <h1>Hello</h1>
   </div>
 </template>

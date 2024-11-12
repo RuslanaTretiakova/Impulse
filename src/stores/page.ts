@@ -4,7 +4,6 @@ export const  usePageStore = defineStore('page-store', () => {
         title: ''
     })
 
-
     return {
         pageData
     }
